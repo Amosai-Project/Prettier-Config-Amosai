@@ -27,10 +27,14 @@
 }
 ```
 
-## Feedback
+## Colaboradores
 
-Preguntas y sugerencias serán bienvenidas 🤝.
+- [@santychuy](https://github.com/santychuy) 🎫
 
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/santychuy)
+## Contactos
 
-- [Instagram](https://www.instagram.com/amosai_project/)
+Preguntas y sugerencias:
+
+- <amosai.project@gmail.com> ✉️
+
+- [@amosai_project](https://www.instagram.com/amosai_project) 📸
