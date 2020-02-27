@@ -1,6 +1,4 @@
-<img src="./.readme/Amosai.png" alt="AmosaiLogo" title="Amosai" align="right" height="90"/>
-
-</br>
+<img src="./.readme/Amosai.png" alt="AmosaiLogo" title="Amosai" align="right" height="65"/>
 
 # Config Prettier
 
