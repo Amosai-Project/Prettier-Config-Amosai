@@ -14,8 +14,7 @@
 	<a/>
     <br>
     <a href="#colaboradores">Colaboradores<a/> •
-    <a href="#contactos">Contactos<a/> •
-    <a href="#licencias">Licencias<a/>
+    <a href="#contactos">Contactos<a/>
 <p/>
 
 ---
